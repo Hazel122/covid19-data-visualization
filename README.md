@@ -56,6 +56,7 @@ This visualization shows the total number of Covid-19 cases reported in each cou
 This line plot illustrates the trend of Covid-19 cases over time in Washington State. Each data point is marked, and the plot includes labels for the x-axis (dates) and y-axis (total cases).
 
 ## Example Output
+```
 1. Data table of the first 10 rows without fips and index
 Table1. First 10 Rows of Covid-19 Data
       date   county      state  cases  deaths
@@ -70,6 +71,7 @@ Table1. First 10 Rows of Covid-19 Data
 2021-01-01  Douglas Washington   2716    15.0
 2021-01-01    Ferry Washington    176     2.0
 --------------------------------------------------------------------------------
+```
 2. Bar chart of the number of cases in each county
 --------------------------------------------------------------------------------
 3. Line plot of cases vs time
