@@ -73,5 +73,7 @@ Table1. First 10 Rows of Covid-19 Data
 --------------------------------------------------------------------------------
 ```
 2. Bar chart of the number of cases in each county
+![image info](images/barChart.png)
 --------------------------------------------------------------------------------
 3. Line plot of cases vs time
+![image info](images/linePlot.png)
